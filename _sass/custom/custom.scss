@@ -1,1 +1,51 @@
 // custom SCSS (or CSS) goes here
+
+/* Custom Greyscale Styling */
+
+/* Custom color variables */
+$canvas-color: #000000;  // Dark grey background for main content
+$primary-color: #000000; // Black for navigation bar
+$text-color: #f5f5f5;    // Light grey/white text for main content
+$border-color: #000000;  // Grey for borders
+$link-color: #f7f9ff;    // Custom blue for links
+
+/* Apply the styles */
+body {
+  background-color: $canvas-color;
+  color: $text-color;
+}
+
+a {
+  color: $link-color;
+}
+
+button {
+  background-color: $primary-color;
+  color: $text-color;
+  border-color: $border-color;
+}
+
+/* Heading and navigation styles */
+h1, h2, h3, h4, h5, h6 {
+  color: $text-color;
+}
+
+.site-nav {
+  background-color: $primary-color;  /* Black for navbar */
+}
+
+.site-nav ul li a {
+  color: $text-color;  /* Grey for links in navigation */
+}
+
+/* Override navigation arrow colors */
+
+/* For arrows in collapsed navigation items */
+.site-nav ul li a::before {
+  color: $text-color; /* Set arrow to same color as text (light grey/white) */
+}
+
+/* For arrows in expanded navigation items */
+.site-nav ul li.open > a::before {
+  color: $text-color; /* Same color for expanded arrows */
+}

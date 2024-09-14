@@ -1,17 +1,29 @@
 // custom SCSS (or CSS) goes here
-
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400..900;1,400..900&display=swap');
 /* Custom Greyscale Styling */
+
+
+
+
+// GO TO SUPPORT/_VARIABLES TO CHANGE WIDTH
+
+
+
+
+
+
+
 
 /* Custom color variables */
 $canvas-color: #000000;  // Dark grey background for main content
 $primary-color: #000000; // Black for navigation bar
 $text-color: #f5f5f5;    // Light grey/white text for main content
 $border-color: #000000;  // Grey for borders
-$link-color: #f7f9ff;    // Custom blue for links
 
 /* Apply the styles */
 body {
   background-color: $canvas-color;
+  font-family: "Playfair Display", serif;
   color: $text-color;
   margin: 0;  /* Remove any default margins */
   padding: 0;  /* Remove any default padding */
@@ -30,6 +42,8 @@ button {
 /* Heading and navigation styles */
 h1, h2, h3, h4, h5, h6 {
   color: $text-color;
+  font-family: "Playfair Display", serif;
+
 }
 
 .site-nav {
@@ -37,7 +51,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .side-bar {
-  width: 15%;
+  width: 0%;
  }
 
 .site-nav ul li a {
@@ -55,4 +69,8 @@ h1, h2, h3, h4, h5, h6 {
 .site-nav ul li.open > a::before {
   color: $text-color; /* Same color for expanded arrows */
 }
+
+
+
+
 

@@ -13,6 +13,8 @@ $link-color: #f7f9ff;    // Custom blue for links
 body {
   background-color: $canvas-color;
   color: $text-color;
+  margin: 0;  /* Remove any default margins */
+  padding: 0;  /* Remove any default padding */
 }
 
 a {
@@ -34,6 +36,10 @@ h1, h2, h3, h4, h5, h6 {
   background-color: $primary-color;  /* Black for navbar */
 }
 
+.side-bar {
+  width: 15%;
+ }
+
 .site-nav ul li a {
   color: $text-color;  /* Grey for links in navigation */
 }
@@ -49,3 +55,4 @@ h1, h2, h3, h4, h5, h6 {
 .site-nav ul li.open > a::before {
   color: $text-color; /* Same color for expanded arrows */
 }
+

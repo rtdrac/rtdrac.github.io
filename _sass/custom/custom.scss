@@ -70,7 +70,19 @@ h1, h2, h3, h4, h5, h6 {
   color: $text-color; /* Same color for expanded arrows */
 }
 
+nav .part-divider {
+    margin-top: 5px;    /* Adjust for the gap above the line */
+    margin-bottom: 5px; /* Adjust for the gap below the line */
+}
 
 
-
+nav .part-label {
+    margin-top: 10px;     /* Adjust for spacing above the label */
+    margin-bottom: 10px; /* Adjust for spacing below the label */
+    padding-left: 20px;  /* This adds the indentation (like a tab space) */
+    font-style: italic;   /* Italic style */
+    font-weight: bold;    /* Bold style */
+    font-size: 1.2em;    /* Adjust font size if needed */
+    color: #d5d4d4;         /* Optional: Change color to make it subtler */
+}
 

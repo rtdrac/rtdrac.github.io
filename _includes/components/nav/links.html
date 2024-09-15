@@ -10,6 +10,12 @@
 
 <ul class="nav-list">
   {%- for node in include.pages -%}
+
+  {%- if node.part -%}
+    <hr class="part-divider">
+    <p class="part-label"><em>{{ node.part }}</em></p>
+  {%- endif -%}
+
   {%- if include.all == true or node.nav_exclude != true -%}
 
   {%- if include.ancestors contains node.title -%}

@@ -1,6 +1,6 @@
 ---
 title: Chapter 5
-permalink: /ch5/
+permalink: /Chapter5/
 nav_order: 50
 has_children: true
 part: "System 2"

@@ -1,6 +1,6 @@
 ---
 title: Appendix B
-permalink: /appB/
+permalink: /AppendixB/
 nav_order: 120
 has_children: true
 ---

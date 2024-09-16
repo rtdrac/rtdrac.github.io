@@ -1,5 +1,6 @@
 ---
 title: Summary
+description: "In this page, you will find a summary of all the resources available in this website."
 permalink: /Summary/
 nav_order: 2
 has_children: true

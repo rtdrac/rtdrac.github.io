@@ -1,7 +1,8 @@
 ---
 title: All VSTs
+description: "All of the developed plugins discussed in this website are also compiled here for easy access."
 permalink: /VSTs/
-nav_order: 4
+nav_order: 5
 has_children: true
 layout: supplement_page
 ---

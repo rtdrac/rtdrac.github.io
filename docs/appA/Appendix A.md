@@ -1,9 +1,9 @@
 ---
-title: Appendix A
+title: Appendix A - Infilling Audio Loops
 permalink: /AppendixA/
 nav_order: 110
 has_children: true
 part: "Appendices"
 
 ---
-# Appendix A
+# Appendix A - Infilling Audio Loops

@@ -15,10 +15,13 @@
 
 
 /* Custom color variables */
-$canvas-color: #000000;  // Dark grey background for main content
-$primary-color: #000000; // Black for navigation bar
-$text-color: #f5f5f5;    // Light grey/white text for main content
-$border-color: #000000;  // Grey for borders
+$canvas-color: #343434;  // Dark grey background for main content
+$primary-color: #343434; // Black for navigation bar
+$text-color: #d2d2d2;    // Light grey/white text for main content
+$border-color: #727272;  // Grey for borders
+$link-color: #eeeded;    // Light grey/white for links
+$link-hover-background: #555555; // Darker grey for link hover background
+$nav-child-link-color: #ffffff; // Light grey/white for navigation links
 
 /* Apply the styles */
 body {
@@ -31,6 +34,18 @@ body {
 
 a {
   color: $link-color;
+  font-weight: bold;  /* Make links bold */
+  text-decoration: none; /* Remove underline for links */
+
+  &:hover, &:focus {
+    background-color: $link-hover-background; /* Change background color on hover */
+    color: $text-color;  /* Optional: change text color on hover */
+  }
+
+  &:active {
+    background-color: $border-color; /* Change background when link is active */
+    color: $text-color;  /* Keep text color consistent */
+  }
 }
 
 button {

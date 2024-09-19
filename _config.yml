@@ -16,7 +16,7 @@
 title: RT-DR-AC
 description: All Supplementary Material for `Design, Development and Deployment of Real-Time Drum Accompaniment Sysetms`
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "rtdrac.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://rtdrac.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 repository: rtdrac/rtdrac.github.io  # for github-metadata
 
 permalink: pretty

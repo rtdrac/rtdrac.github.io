@@ -210,3 +210,24 @@ layout: supplement_page
   <source src="/assets/ch7/video/palauGuellRehearsal.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
+
+---
+
+## Audio Infilling (Appendix A)
+
+<video width="600" height="400" controls>
+  <source src="/assets/appA/Demo A Percussive Inputs.mp4" type="video/mp4">
+</video>
+
+
+<br>
+
+<video width="600" height="400" controls>
+  <source src="/assets/appA/Demo B Vocal Inputs.mp4" type="video/mp4">
+</video>
+
+<br>
+
+<video width="600" height="400" controls>
+  <source src="/assets/appA/Demo C Other Inputs.mp4" type="video/mp4">
+</video>

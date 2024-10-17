@@ -5,8 +5,6 @@ nav_order: 3
 layout: supplement_page
 ---
 
-## Table of contents
-{: .no_toc .text-delta }
+## Changelog
 
-1. TOC
-{:toc}
+No changes yet. Stay tuned for updates!  

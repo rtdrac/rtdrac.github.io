@@ -44,6 +44,13 @@ layout: supplement_page
   Your browser does not support the video tag.
 </audio>
 
+<br>
+
+<video controls width="640" height="360">
+  <source src="{{ '/assets/ch4/vids/Groove2Drum VST - Short Jam Session.mp4' | relative_url }}" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
 
 --- 
 

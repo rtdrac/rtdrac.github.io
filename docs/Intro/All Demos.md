@@ -196,3 +196,9 @@ layout: supplement_page
   <source src="/assets/ch7/video/V4.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
+
+
+<video width="600" height="400" controls>
+  <source src="/assets/ch7/video/palauGuellRehearsal.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>

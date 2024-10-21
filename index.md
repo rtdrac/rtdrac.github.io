@@ -13,6 +13,8 @@ permalink: /
 {: .fs-7}
 All supplementary material for the following thesis manuscript can be found here 
 
+
+
 ---
 ## Dissertation Download
 {: .fs-9 }
@@ -20,6 +22,18 @@ All supplementary material for the following thesis manuscript can be found here
 <br>
 
 [Download Dissertation](https://drive.google.com/file/d/1YWjblx6cmUo-wYV2ECZAOS1S3zUHBOn1/view){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
+---
+
+## Demo of The Latest System
+{: .fs-9 }
+
+<br>
+<video width="800" controls>
+  <source src="/assets/ch7/video/DemoHome.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
+
 
 ---
 

@@ -177,6 +177,12 @@ layout: supplement_page
 
 ## System 3
 
+<video width="600" height="400" controls>
+  <source src="/assets/ch7/video/DemoHome.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
+<br>
 
 <video width="600" height="400" controls>
   <source src="/assets/ch7/video/V1.mp4" type="video/mp4">

@@ -33,7 +33,21 @@ All supplementary material for the following thesis manuscript can be found here
   Your browser does not support the video tag.
 </video>
 
+<br>
 
+<video width="600" height="400" controls>
+  <source src="/assets/ch7/video/AudioMidiIn1080p.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
+<br>
+
+<video width="600" height="400" controls>
+  <source src="/assets/ch7/video/LTA_performFX.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
+<br>
 
 ---
 

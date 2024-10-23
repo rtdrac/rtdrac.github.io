@@ -62,14 +62,19 @@ This system was developed using JUCE and libtorch.
 ---
 
 ## System 3 (Chapter 7)
-
-### LongTermAccompaniment VST
-
+ 
 <video autoplay="autoplay" loop="loop" width="400" height="300">
   <source src="/assets/ch7/video/VST_LTA.webm" type="video/webm">
 </video>
 
+
+### LongTermAccompaniment VST (MIDI Only) (Chapter 7)
+
 [**Download Source Code**]({{ site.baseurl }}/assets/ch7/zip/LTAStacked_VST.zip){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
+
+### LongTermAccompaniment VST (MIDI & Audio) (Chapter 8)
+
+[**Download Source Code**]({{ site.baseurl }}/assets/ch7/zip/LTA_VST_MIDI_AUDIO.zip){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
 
 ---
 
@@ -80,3 +85,5 @@ This system was developed using JUCE and libtorch.
 <img src="/assets/appA/tgi.png" alt="Alt text" width="400"/>
 
 [**Source Code**](https://github.com/behzadhaki/InfillingTransformerRealTime){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
+
+
